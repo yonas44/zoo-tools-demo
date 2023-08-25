@@ -117,6 +117,7 @@ export const signUpLocationData = {
     {
       name: "Canada",
       count: 550,
+      category: "Country",
     },
     {
       name: "Australia",
